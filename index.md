@@ -1,37 +1,66 @@
-## Welcome to GitHub Pages
+## 人员简历
+基本信息 :
 
-You can use the [editor on GitHub](https://github.com/xianyz/xianyz.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+姓名 : **XYZ**									
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+年龄 : **30**
 
-### Markdown
+性别 : 男​
+ 
+所学专业 : 信息科学与技术（软件工程）
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+地点 : **沈阳**
+ 
+电子邮箱 : **xianyz@hotmail.com**
 
-```markdown
-Syntax highlighted code block
+求职意向 :
 
-# Header 1
-## Header 2
-### Header 3
+工作性质 : 全职
 
-- Bulleted
-- List
+期待薪资 : 面议
 
-1. Numbered
-2. List
+期望职位 : **项目经理/开发经理**
 
-**Bold** and _Italic_ and `Code` text
+目前状况 : 在职
 
-[Link](url) and ![Image](src)
-```
+专业技能 :
+* 办公系统：windows；Linux；mac
+* 开发语言：C#；JAVA；Python
+* 数  据 库：PostgreSQL；SQL server；Oracle；Redis
+* 环境配置：IIS，Tomcat，nginx
+* 办公工具：office办公软件；
+* 开发工具，Visual Studio，VS Code，IntelliJ，*PyCharm；
+* 设计工具：Visio，ERStudio，PowerDesigner，Axure，Mockplus；
+* 代码管理工具，Git，GitHub，SVN，Visual Source Safe；
+* 项目管理工具：Project，禅道，Bugfree
+* 熟悉敏捷开发
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+工作经验 ：
 
-### Jekyll Themes
+2017.11 - 至今		    共兴达信息技术（沈阳）有限公司		| 	  项目经理
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xianyz/xianyz.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+2015.1  - 2017.10		共兴达信息技术（沈阳）有限公司 		| 	 开发组长
 
-### Support or Contact
+2012.4  - 2014.12 		共兴达信息技术（沈阳）有限公司		|	 .net开发工程师
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+2011.10 - 2012.3 		共兴达信息技术（沈阳）有限公司		|	 java开发工程师（实习）
+
+教育经历 :
+
+2008.09 - 2012.07		沈阳工程学院			|	信息科学与技术（软件工程）全日制本科
+
+项目经验 :
+
+* 2011年：银行（对日），沈飞物料ERP
+* 2012年：农业数字大棚管理平台，沈阳市农业预警指挥服务系统
+* 2013年：联合日邮物流分拨管理系统，公用集团eoms，丹东溯源，沈阳市农资执法监管平台
+* 2014年：圣野合作社信息管理系统，数字校园联合，沈阳银信作业管理系统，沈北监督局OA
+* 2015年：在水一方，农产品质量溯源，农投品监管系统，农产品质量检测系统，收贮运监管系统，流转终端，共兴达LBS管理系统，东北新闻网智慧社区
+* 2016年：粮食监管平台，网格化监管平台，一村一表，种子监管平台
+* 2017年：蛋糕达人，人防工程LBS，合作社，农资进销存
+* 2018年：休闲农业2018，农业物联网，农业综合产品开发，农药电子台账监管，涉案财物管理系统，平原农业共享平台，丹东防汛显示屏系统，伴学时代，大连天呈海关报关系统，后附码，荣科血透，荣科电子病历，伴学时代二期
+* 2019年：校车监管，冷链产品，新松BG数据中心，上海充电桩，山东智教农业共享平台，联通内部办公，环科院决策平台
+
+
+### 致谢
+​	**非常感谢您花宝贵的时间阅读我的简历，期待能有机会与您共事。谢谢！**
